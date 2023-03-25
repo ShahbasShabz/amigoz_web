@@ -42544,7 +42544,7 @@ A.Ly.prototype={
 J(a){var s=null,r=A.hF(8)
 return A.fm(s,A.bq(s,A.h7(A.bp(this.d,s,s,s,B.O8,s,s),s,s),B.k,s,s,new A.cN(s,s,s,r,s,s,B.as),s,s,s,s,B.nI,s,s,s),B.T,!1,s,s,s,s,s,s,s,s,s,s,s,this.c,s,s,s,s,s,s)}}
 A.Lw.prototype={
-J(a){return new A.z9(B.AF,!1,B.p,new A.A1(A.ag(["/",new A.a8B(),"/member-form",new A.a8C(),"/profile",new A.a8D(),"/main",new A.a8E()],t.N,t.Ab),new A.a8F(),"Amigoz",!1,null),null)}}
+J(a){return new A.z9(B.AF,!1,B.p,new A.A1(A.ag(["/",new A.a8B(),"/member-form",new A.a8C(),"/profile",new A.a8D(),"/main",new A.a8E()],t.N,t.Ab),new A.a8F(),"Amigoz FC",!1,null),null)}}
 A.a8F.prototype={
 $2(a,b){var s=a.K(t.w).f.ad5(1,1)
 b.toString
@@ -42803,7 +42803,7 @@ if(A.bH(J.ae($.dn.W().a,a4))!=null){q=A.bH(J.ae($.dn.W().a,a4))
 q.toString
 q=A.HM(a2,new A.amg(),q)}else q=A.l1(B.od,new A.P(a6),35)
 q=A.bq(a2,new A.bA(B.nH,A.f1(A.a([a7,B.QK,A.iK(a2,q,45,new A.amh(),a2)],r),B.z,B.bk,B.L),a2),B.k,B.l,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2)
-a7=A.bf(a2,20,a2)
+a7=A.bf(a2,5,a2)
 p=t.w
 o=a8.K(p).f
 n=a8.K(p).f
