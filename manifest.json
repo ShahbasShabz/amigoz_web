@@ -1,6 +1,6 @@
 {
-    "name": "Amigoz",
-    "short_name": "Amigoz",
+    "name": "amigoz_fc",
+    "short_name": "amigoz_fc",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
