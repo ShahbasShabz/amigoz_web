@@ -42540,7 +42540,7 @@ A.Ly.prototype={
 J(a){var s=null,r=A.hF(8)
 return A.fm(s,A.bp(s,A.h6(A.bs(this.d,s,s,s,B.O7,s,s),s,s),B.k,s,s,new A.cM(s,s,s,r,s,s,B.as),s,s,s,s,B.nJ,s,s,s),B.T,!1,s,s,s,s,s,s,s,s,s,s,s,this.c,s,s,s,s,s,s)}}
 A.Lw.prototype={
-J(a){return new A.z8(B.AE,!1,B.p,new A.A0(A.ag(["/",new A.a8y(),"/member-form",new A.a8z(),"/profile",new A.a8A(),"/main",new A.a8B()],t.N,t.Ab),new A.a8C(),"Amigoz",!1,null),null)}}
+J(a){return new A.z8(B.AE,!1,B.p,new A.A0(A.ag(["/",new A.a8y(),"/member-form",new A.a8z(),"/profile",new A.a8A(),"/main",new A.a8B()],t.N,t.Ab),new A.a8C(),"Amigoz FC",!1,null),null)}}
 A.a8C.prototype={
 $2(a,b){var s=a.K(t.w).f.ad3(1,1)
 b.toString
